@@ -1,7 +1,7 @@
 note over user:
 Write note
 end note
-user->page: Send note by submite button
+user->page: Send note by submit button
 
 note over page:
 Receive note

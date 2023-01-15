@@ -1,0 +1,15 @@
+note over user:
+Write note
+end note
+
+user->page: Send note by submit button
+
+note over page:
+Receive note
+end note
+
+page->user: show new data in page
+
+note over user:
+Show new data
+end note
